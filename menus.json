@@ -1,0 +1,14 @@
+{
+  "pagina1": {
+    "titulo": "Escolha seu produto",
+    "opcoes": [
+      { "value": 1, "label": "CR Code", "icon": "menu" },
+      { "value": 2, "label": "Bilhete Único", "icon": "check" },
+      { "value": 3, "label": "TOP", "icon": "east" }
+    ]
+  },
+  "ops2": [
+    { "value": 21, "label": "opcao 21", "icon": "menu" },
+    { "value": 23, "label": "opcao 23", "icon": "east" }
+  ]
+}
